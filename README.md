@@ -1,2 +1,2 @@
 # adventofcode2021
-Rust implementations for [Advent of code 2021](https://adventofcode.com/2021), just for fun
+Rust implementations for [Advent of code 2021](https://adventofcode.com/2021), just for fun and learning rust
